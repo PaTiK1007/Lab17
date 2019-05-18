@@ -7,6 +7,7 @@ public class Course {
 		this.courseName = courseName;
 	}
 	
+	
 	public String getCourseName() {
 		return courseName;
 	}

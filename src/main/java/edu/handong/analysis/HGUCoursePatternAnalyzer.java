@@ -27,6 +27,7 @@ public class HGUCoursePatternAnalyzer {
 	private ArrayList<Course> courses;
 	
 	
+	
 	/**
 	 * This method runs our analysis logic to get the list of student and course names from lines.
 	 * @param args
